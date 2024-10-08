@@ -9,5 +9,7 @@ int main(){
 
     cout<<"I am going to make second commit";
 
+    cout<<"hi";
+
     return 0;
 }
