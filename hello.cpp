@@ -7,5 +7,7 @@ int main(){
 
     cout<<"I am making changes.";
 
+    cout<<"I am going to make second commit";
+
     return 0;
 }
